@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @molokwuvictor
-- 👀 I’m interested in data-driven modelling for physical systems, Artificial-Intelligence
+- 👀 I’m interested in physics-based data-driven modelling techniques for physical systems, Artificial-Intelligence
 - 🌱 Programming skills in python, c#
 - 💞️ I’m looking to collaborate with engineers, computer scientists on similar research areas
 - 📫 How to reach me: molokwuvictor@yahoo.com
