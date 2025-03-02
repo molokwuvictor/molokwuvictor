@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @molokwuvictor
 - 👀 Extensive knowledge in physics-based data-driven modelling techniques for physical systems, Artificial-Intelligence
-- 🌱 Programming skills in python, c#
+- 🌱 Programming skills in python, c#, html and js.
 - 💞️ I’m looking to collaborate with engineers, computer scientists on similar research areas
 - 📫 How to reach me: molokwuvictor@yahoo.com
 
